@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url(https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_1280.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    text-align: center;   
+}
+
+.background {
+    background-color: #A3B5A7;
+    height: 105px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    
+}
+
+.main-heading {
+    font-family: panton;
+    font-weight: bold;
+    font-size: 70px;
+    color: whitesmoke;
+    text-rendering: geometricPrecision;
+    text-decoration: underline;
+}
+
+.paragraph {
+    font-size: medium;
+    color:red;
+    line-height: 5px;
+}
+
+.click {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:beige;
+    line-height-step: 20px;
+    padding: 22px;
+    border-width: 2px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    cursor: pointer;
+    border-color: #A3B5A7;
+}
+
+.button {
+    color:black;
+    font-family: cursive;
+}
+
+.back {
+    background: #5E5334;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.fav_bg {
+    background-image: url(https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_1280.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.fav_head {
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.c1 {
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.taj_c1 {
+    text-align: center;
+    color: #316084;
+    font-family: monospace;
+    font-weight: bold ;
+    padding: 10px;
+}
+
+.par_c1 {
+    padding: 10px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.img_c1 {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 560px;
+    height: 200px;
+}
+
+.img_c2 {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 550px;
+    height: 200px;
+}
+
+.img_c3 {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 340px;
+    height: 200px;
+}
+
+.detail-back {
+    background-image: url(https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455_1280.jpg);
+    height: 150vh;
+    width: 100vw;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.container {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin: 10x;
+
+}
+
+.head {
+    color: black;
+    font-family: monospace;
+    font-size: 60px;
+    font-weight: bold;
+    padding: 10px;
+    
+}
+.text {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding: 16px;
+}
+
+.center {
+    text-align: center;
+}
